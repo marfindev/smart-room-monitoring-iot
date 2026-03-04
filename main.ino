@@ -1,4 +1,4 @@
-#define BLYNK_AUTH_TOKEN "XAxKGiz3o8bZAant3E8oAQpNpnjVKHwd"
+#define BLYNK_AUTH_TOKEN "YOUR_TOKEN_HERE"
 
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
@@ -9,8 +9,8 @@
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "Teras Malikah";  // type your wifi name
-char pass[] = "malikahku19";  // type your wifi password
+char ssid[] = "marfinpro";  // type your wifi name
+char pass[] = "marfinpro";  // type your wifi password
 
 #define DHTPIN D6          // Mention the digital pin where you connected 
 #define DHTTYPE DHT11     // DHT 11  
@@ -47,3 +47,4 @@ void sendSensor(){
   Serial.println(h);
   
 }
+

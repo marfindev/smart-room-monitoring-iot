@@ -44,6 +44,7 @@ The DHT11 sensor has 3 pins (VCC, GND, and DATA). The connections to the Wemos D
 *Figure: Real-time temperature and humidity monitoring interface on the Blynk Web Dashboard.*
 
 **Blynk Mobile App:**
+
 <img width="455" height="985" alt="gambar" src="https://github.com/user-attachments/assets/3d1e275a-3bc5-47b6-bb4f-72947a3c074f" />
 
 *Figure: Real-time temperature and humidity monitoring interface on the Blynk Mobile App.*
